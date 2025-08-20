@@ -184,3 +184,4 @@ modify_table_styling(
 	rows = label == "Race/ethnicity",
 	footnote = "see https://www.nlsinfo.org/content/cohorts/nlsy79/topical-guide/household/race-ethnicity-immigration-data"
 )
+
