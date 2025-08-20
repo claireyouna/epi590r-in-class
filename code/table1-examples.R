@@ -1,7 +1,7 @@
 library(tidyverse)
 library(gtsummary)
 
-# Load and clean data
+# Load and clean data.
 nlsy_cols <- c(
   "glasses", "eyesight", "sleep_wkdy", "sleep_wknd",
   "id", "nsibs", "samp", "race_eth", "sex", "region",
