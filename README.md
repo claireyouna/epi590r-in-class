@@ -1,3 +1,3 @@
 # EPI590R repo
 
-This repository belongs to xx.
+This repository belongs to claire You.
